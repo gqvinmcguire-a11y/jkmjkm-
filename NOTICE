@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Apps</title> <!-- change this to ur title of the tab -->
+    <title>Notice</title> <!-- change this to ur title of the tab -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -90,6 +90,6 @@
     <header>
         <button onclick="location.href='index.html'">Games</button>
         <button onclick="location.href='apps.html'">Apps</button>
-        <button onclick="location.href='apps.html'">Notice</button>
+        <button onclick="location.href='Notice.html'">Notice</button>
         <dev>
      Some game WONT work but most will STILL BETA
