@@ -93,3 +93,10 @@
         <button onclick="location.href='Notice.html'">Notice</button>
         <dev>
      Some game WONT work but most will STILL BETA
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 insert website name</p>
+    </footer>
+</body>
+</html>
